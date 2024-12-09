@@ -1,3 +1,3 @@
 # Projects
 
-Here I will have all the project in python.
+Here I will have all my projects.
